@@ -421,3 +421,45 @@ em { color: var(--rose); }
   }
   .reveal { opacity: 1; transform: none; }
 }
+
+
+.pricing-section {
+  background: #fffaf7;
+}
+
+.cake-card-content {
+  padding: 22px;
+}
+
+.cake-card-content h3 {
+  margin: 10px 0;
+}
+
+.cake-card-content p {
+  line-height: 1.7;
+}
+
+.price {
+  color: #b85d78;
+  font-size: 1.7rem;
+  font-weight: 700;
+  margin: 14px 0 0;
+}
+
+.price small {
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+.price-secondary {
+  font-weight: 600;
+  margin: 3px 0 16px;
+}
+
+.pricing-note {
+  margin-top: 28px;
+  color: #75666a;
+  font-size: 0.9rem;
+  line-height: 1.7;
+  text-align: center;
+}
